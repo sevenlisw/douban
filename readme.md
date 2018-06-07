@@ -4,7 +4,6 @@
 
 原计划仿写完所有页面，碍于数据有限，实现页面也有限。
 
-不推荐手机端访问。
 
 
 
@@ -14,7 +13,7 @@
 
 ## 工具&技能
 
-`vue` + `vuex`+ `vue-router` + `vue-resource`+`axios` +`node`
+`vue` + `vuex`+ `vue-router` + `vue-resource`+`asiox` +`node`
 
 ## 使用
 
